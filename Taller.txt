@@ -1,0 +1,28 @@
+1. Hacer un programa que me haya el mínimo común múltiplo o el máximo
+común divisor de dos números dados. También debe descomponer y
+mostrar en pantalla los factores primos de cada número. El programa se
+debe solucionar usando funciones.
+
+2. Hacer un programa que lea un numero natural de 4 cifras, no todos
+iguales. Implementa la función Mayor(N), que calcula el mayor número
+que se puede formar con las 4 cifras y la funciona Menor(N) que calcula
+el menor número que se puede formar con las 4 cifras
+
+3. Hacer un programa que me muestre en pantalla un menú con las
+siguientes opciones, usando una función para cada opción:
+• Dividir 2 números
+• Entregar la raíz cuadrada de un numero
+• Elevar un número a la potencia indicada
+• Hallar el seno y coseno de un Angulo especifico en grados.
+• Indicar cuanto da la suma de sus dígitos
+• Eliminar los números pares del numero
+• Eliminar los números impares del numero
+• Salir del programa
+
+4. Escriba una función sumad(N), que entregue la suma de cifras de un
+numero dado N de 4 cifras. Con esta función haga un programa que
+genere 5 números aleatorios entre 1 y 9999 y encuentre cuál de ellos tiene
+la mayor suma de sus cifras. El programa debe mostrar los 5 números
+aleatorios generados e indicar cuál de ellos tiene la mayor suma de sus
+cifras.
+
