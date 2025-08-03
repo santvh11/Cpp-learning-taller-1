@@ -1,0 +1,17 @@
+1. Hacer un programa que me permita ingresar las notas de 5 estudiantes, almacenarlas en un vector y que luego mediante un menú me permita buscar:
+• La mejor nota
+• La menor nota
+• El Promedio de todas las notas
+• Cuantos estudiantes perdieron
+• Cuantos estudiantes ganaron
+• Cuantas notas están por encima del promedio
+
+2. Hacer un programa que me pida que ingrese 5 números enteros de dos dígitos y luego me los organice de mayor a menor, de acuerdo al valor que da la suma de sus dígitos.
+Ejemplo: Si los números ingresados son:
+24 76 52 47 23
+El programa debe imprimir:
+76 47 52 24 23
+
+3. Hacer un programa que lea 5 números enteros de dos dígitos, almacenarlos en un vector y luego determinar le pida al usuario que numero de un solo digito quiere buscar dentro del vector, lo busque y muestre en qué posición o posiciones del vector se encuentra este número o que muestre un mensaje indicando que este número no hace parte del vector. El numero a buscar puede ser las decenas o unidades del número almacenado.
+
+Nota: En todos los programas debe usar funciones
