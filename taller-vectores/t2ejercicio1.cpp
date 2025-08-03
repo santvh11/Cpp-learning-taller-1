@@ -81,6 +81,8 @@ void ingresarNotas(vector<vector<float>> &todosLosEstudiantes)
         vector<float> notasEstudiante;
         float nota;
 
+        cout << "\n--- ESTE PROGRAMA PERMITE INGRESAR INDEFINIDAS NOTAS PARA INDEFINIDOS ESTUDIANTES " << endl;
+
         cout << "\n--- Ingresando notas para el Estudiante " << numeroEstudiante << " ---" << endl;
 
         while (true)
@@ -92,6 +94,8 @@ void ingresarNotas(vector<vector<float>> &todosLosEstudiantes)
                 cout << "Terminando notas para este estudiante." << endl;
                 break;
             }
+
+            notasEstudiante.push_back(nota);
         }
 
         if (!notasEstudiante.empty())
